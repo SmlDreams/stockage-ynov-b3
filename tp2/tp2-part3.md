@@ -162,12 +162,6 @@ systemctl start nginx
 🌞 **Prouvez avec un `curl` que le site est actif**
 
 [root@master ~]# curl 10.3.250.101
-<html>
-<head><title>403 Forbidden</title></head>
-<body>
-<center><h1>403 Forbidden</h1></center>
-<hr><center>nginx/1.20.1</center>
-</body>
-</html>
+skafnefnfejfezjfezi
 
 **Well that's a highly-available little storage setup !** :d
